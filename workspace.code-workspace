@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../fgo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../respontive_slider"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cv_ca_nhan"
+	}
+}
